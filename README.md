@@ -1,8 +1,8 @@
 Here you can see some examples on how to mutate data with react server components + server actions.
 For simplicity, data is persisted through cookies.
 
-- **/my-tweet:** On this example, we revalidate the data by revalidating the route through the revalidatePath function
-- **/products:** Here, we assign a tag when fetching the cart and and then we revalidate the data through the revalidateTag function.
+- **/my-tweet:** On this example, we revalidate the data by revalidating the route through the `revalidatePath` function
+- **/products:** Here, we assign a tag when fetching the cart and and then we revalidate the data through the `revalidateTag` function.
 
 ## Getting Started
 
